@@ -1,0 +1,11 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Balke",
+  "license": "ISC"
+}
